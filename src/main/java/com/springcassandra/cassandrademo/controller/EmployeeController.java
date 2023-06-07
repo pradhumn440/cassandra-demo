@@ -101,6 +101,7 @@ public class EmployeeController {
 
     }
 
+    // PAT for github -> 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
     // task no 1 - insert n employees to cassandra db
     @PostMapping("add-bulk-employees")
     @Transactional(isolation = Isolation.SERIALIZABLE)
