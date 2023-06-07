@@ -1,0 +1,29 @@
+spring:
+  cassandra:
+    contact-points: 127.0.0.1
+    port: 9042
+    keyspace-name: spring_cassandra
+    schema-action: CREATE_IF_NOT_EXISTS
+    local-datacenter: datacenter1
+    connection:
+      init-query-timeout: 100000
+      connect-timeout: 1000s
+    request:
+      timeout: 1000s
+  kafka:
+    consumer:
+      bootstrap-servers: localhost:9092
+      group-id: myGroup
+      auto-offset-reset: earliest
+      key-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+      value-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+    producer:
+      bootstrap-servers: localhost:9092
+      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+      value-serializer: org.apache.kafka.common.serialization.StringSerializer
+
+server:
+  port: 8081
+
+
+

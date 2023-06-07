@@ -1,0 +1,237 @@
+2023-06-07 12:59:13 [Catalina-utility-1] DEBUG o.a.catalina.session.ManagerBase - Start expire sessions StandardManager at 1686122953305 sessioncount 0
+2023-06-07 12:59:13 [Catalina-utility-1] DEBUG o.a.catalina.session.ManagerBase - End expire sessions StandardManager processingTime 3 expired sessions: 0
+2023-06-07 12:59:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 12:59:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|control|id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 12:59:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 12:59:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 12:59:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 12:59:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 12:59:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 12:59:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|control|id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 12:59:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 12:59:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 12:59:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 12:59:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 12:59:52 [http-nio-8081-exec-3] DEBUG o.a.tomcat.util.threads.LimitLatch - Counting down[http-nio-8081-exec-3] latch=1
+2023-06-07 12:59:52 [http-nio-8081-exec-3] DEBUG o.apache.tomcat.util.net.NioEndpoint - Calling [org.apache.tomcat.util.net.NioEndpoint@3fdf893a].closeSocket([org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@3b433066:org.apache.tomcat.util.net.NioChannel@220a9168:java.nio.channels.SocketChannel[connected local=/[0:0:0:0:0:0:0:1]:8081 remote=/[0:0:0:0:0:0:0:1]:50808]])
+2023-06-07 13:00:13 [Catalina-utility-1] DEBUG o.a.catalina.session.ManagerBase - Start expire sessions StandardManager at 1686123013324 sessioncount 0
+2023-06-07 13:00:13 [Catalina-utility-1] DEBUG o.a.catalina.session.ManagerBase - End expire sessions StandardManager processingTime 1 expired sessions: 0
+2023-06-07 13:00:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:00:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|control|id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:00:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:00:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:00:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:00:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:00:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:00:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|control|id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:00:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:00:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:00:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:00:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:01:13 [Catalina-utility-2] DEBUG o.a.catalina.session.ManagerBase - Start expire sessions StandardManager at 1686123073345 sessioncount 0
+2023-06-07 13:01:13 [Catalina-utility-2] DEBUG o.a.catalina.session.ManagerBase - End expire sessions StandardManager processingTime 1 expired sessions: 0
+2023-06-07 13:01:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:01:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|control|id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:01:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:01:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:01:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:01:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:01:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:01:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|control|id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:01:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:01:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:01:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:01:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:02:11 [s0-admin-1] DEBUG c.d.o.d.i.c.c.t.DefaultDriverConfigLoader - [s0] Reloaded configuration but it hasn't changed
+2023-06-07 13:02:13 [Catalina-utility-1] DEBUG o.a.catalina.session.ManagerBase - Start expire sessions StandardManager at 1686123133372 sessioncount 0
+2023-06-07 13:02:13 [Catalina-utility-1] DEBUG o.a.catalina.session.ManagerBase - End expire sessions StandardManager processingTime 1 expired sessions: 0
+2023-06-07 13:02:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:02:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|control|id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:02:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:02:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:02:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:02:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:02:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:02:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|control|id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:02:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:02:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:02:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:02:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:03:13 [Catalina-utility-2] DEBUG o.a.catalina.session.ManagerBase - Start expire sessions StandardManager at 1686123193397 sessioncount 0
+2023-06-07 13:03:13 [Catalina-utility-2] DEBUG o.a.catalina.session.ManagerBase - End expire sessions StandardManager processingTime 2 expired sessions: 0
+2023-06-07 13:03:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:03:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|control|id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:03:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:03:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:03:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:03:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:03:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:03:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|control|id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:03:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:03:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:03:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:03:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:04:13 [Catalina-utility-2] DEBUG o.a.catalina.session.ManagerBase - Start expire sessions StandardManager at 1686123253417 sessioncount 0
+2023-06-07 13:04:13 [Catalina-utility-2] DEBUG o.a.catalina.session.ManagerBase - End expire sessions StandardManager processingTime 6 expired sessions: 0
+2023-06-07 13:04:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:04:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|control|id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:04:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:04:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:04:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:04:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:04:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:04:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|control|id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:04:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:04:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:04:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:04:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:05:13 [Catalina-utility-2] DEBUG o.a.catalina.session.ManagerBase - Start expire sessions StandardManager at 1686123313448 sessioncount 0
+2023-06-07 13:05:13 [Catalina-utility-2] DEBUG o.a.catalina.session.ManagerBase - End expire sessions StandardManager processingTime 4 expired sessions: 0
+2023-06-07 13:05:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:05:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|control|id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:05:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:05:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:05:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:05:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:05:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:05:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|control|id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:05:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:05:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:05:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:05:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:06:13 [Catalina-utility-1] DEBUG o.a.catalina.session.ManagerBase - Start expire sessions StandardManager at 1686123373483 sessioncount 0
+2023-06-07 13:06:13 [Catalina-utility-1] DEBUG o.a.catalina.session.ManagerBase - End expire sessions StandardManager processingTime 9 expired sessions: 0
+2023-06-07 13:06:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:06:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|control|id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:06:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:06:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:06:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:06:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:06:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:06:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|control|id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:06:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:06:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:06:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:06:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:07:11 [s0-admin-1] DEBUG c.d.o.d.i.c.c.t.DefaultDriverConfigLoader - [s0] Reloaded configuration but it hasn't changed
+2023-06-07 13:07:13 [Catalina-utility-1] DEBUG o.a.catalina.session.ManagerBase - Start expire sessions StandardManager at 1686123433511 sessioncount 0
+2023-06-07 13:07:13 [Catalina-utility-1] DEBUG o.a.catalina.session.ManagerBase - End expire sessions StandardManager processingTime 3 expired sessions: 0
+2023-06-07 13:07:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:07:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|control|id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:07:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:07:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:07:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:07:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:07:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:07:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|control|id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:07:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:07:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:07:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:07:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:08:13 [Catalina-utility-2] DEBUG o.a.catalina.session.ManagerBase - Start expire sessions StandardManager at 1686123493538 sessioncount 0
+2023-06-07 13:08:13 [Catalina-utility-2] DEBUG o.a.catalina.session.ManagerBase - End expire sessions StandardManager processingTime 6 expired sessions: 0
+2023-06-07 13:08:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:08:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|control|id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:08:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:08:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:08:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:08:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:08:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:08:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|control|id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:08:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:08:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:08:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:08:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:09:13 [Catalina-utility-2] DEBUG o.a.catalina.session.ManagerBase - Start expire sessions StandardManager at 1686123553570 sessioncount 0
+2023-06-07 13:09:13 [Catalina-utility-2] DEBUG o.a.catalina.session.ManagerBase - End expire sessions StandardManager processingTime 1 expired sessions: 0
+2023-06-07 13:09:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:09:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|control|id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:09:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:09:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:09:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:09:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:09:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:09:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|control|id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:09:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:09:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:09:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:09:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:10:13 [Catalina-utility-1] DEBUG o.a.catalina.session.ManagerBase - Start expire sessions StandardManager at 1686123613593 sessioncount 0
+2023-06-07 13:10:13 [Catalina-utility-1] DEBUG o.a.catalina.session.ManagerBase - End expire sessions StandardManager processingTime 2 expired sessions: 0
+2023-06-07 13:10:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:10:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|control|id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:10:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:10:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:10:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:10:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:10:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:10:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|control|id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:10:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:10:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:10:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:10:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:11:13 [Catalina-utility-1] DEBUG o.a.catalina.session.ManagerBase - Start expire sessions StandardManager at 1686123673621 sessioncount 0
+2023-06-07 13:11:13 [Catalina-utility-1] DEBUG o.a.catalina.session.ManagerBase - End expire sessions StandardManager processingTime 2 expired sessions: 0
+2023-06-07 13:11:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:11:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|control|id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:11:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:11:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:11:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:11:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:11:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:11:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|control|id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:11:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:11:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:11:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:11:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:12:11 [s0-admin-1] DEBUG c.d.o.d.i.c.c.t.DefaultDriverConfigLoader - [s0] Reloaded configuration but it hasn't changed
+2023-06-07 13:12:13 [Catalina-utility-2] DEBUG o.a.catalina.session.ManagerBase - Start expire sessions StandardManager at 1686123733661 sessioncount 0
+2023-06-07 13:12:13 [Catalina-utility-2] DEBUG o.a.catalina.session.ManagerBase - End expire sessions StandardManager processingTime 1 expired sessions: 0
+2023-06-07 13:12:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:12:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|control|id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:12:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:12:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:12:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:12:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:12:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:12:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|control|id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:12:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:12:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:12:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:12:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:13:13 [Catalina-utility-1] DEBUG o.a.catalina.session.ManagerBase - Start expire sessions StandardManager at 1686123793688 sessioncount 0
+2023-06-07 13:13:13 [Catalina-utility-1] DEBUG o.a.catalina.session.ManagerBase - End expire sessions StandardManager processingTime 4 expired sessions: 0
+2023-06-07 13:13:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:13:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|control|id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:13:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:13:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:13:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:13:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:13:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:13:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|control|id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:13:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:13:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:13:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:13:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:14:13 [Catalina-utility-2] DEBUG o.a.catalina.session.ManagerBase - Start expire sessions StandardManager at 1686123853723 sessioncount 0
+2023-06-07 13:14:13 [Catalina-utility-2] DEBUG o.a.catalina.session.ManagerBase - End expire sessions StandardManager processingTime 4 expired sessions: 0
+2023-06-07 13:14:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:14:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|control|id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:14:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:14:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:14:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:14:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:14:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:14:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|control|id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:14:45 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:14:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:14:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:14:52 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:15:13 [Catalina-utility-2] DEBUG o.a.catalina.session.ManagerBase - Start expire sessions StandardManager at 1686123913757 sessioncount 0
+2023-06-07 13:15:13 [Catalina-utility-2] DEBUG o.a.catalina.session.ManagerBase - End expire sessions StandardManager processingTime 5 expired sessions: 0
+2023-06-07 13:15:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:15:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|control|id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:15:15 [s0-io-3] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0x5e9ad615, L:/127.0.0.1:50791 - R:/127.0.0.1:9042] Heartbeat query succeeded
+2023-06-07 13:15:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - Connection was inactive for 30 seconds, sending heartbeat
+2023-06-07 13:15:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.InFlightHandler - [s0|id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Got last response on in-flight stream id 0, completing and releasing
+2023-06-07 13:15:22 [s0-io-4] DEBUG c.d.o.d.i.c.channel.HeartbeatHandler - [id: 0xcc49cf3f, L:/127.0.0.1:50793 - R:/127.0.0.1:9042] Heartbeat query succeeded
